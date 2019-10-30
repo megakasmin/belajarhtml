@@ -1,0 +1,32 @@
+.fotoprofil {
+  background-color: grey;
+}
+.center {
+  text-align: center;
+}
+.skill {
+  width: 100px;
+  height: 100px;
+}
+.mediasosial {
+  text-align: center;
+}
+.skillparent {
+  display: flex;
+  justify-content: center;
+}
+.skillcard {
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+}
+.skillkartu {
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+}
+.kartuskill {
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+}
+.mediasosial img {
+  width: 50px;
+}
